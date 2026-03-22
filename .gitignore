@@ -2,3 +2,5 @@ __pycache__/
 *.pyc
 .env
 weekly-audit-report.txt
+dist/
+main
